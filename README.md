@@ -3,7 +3,7 @@
 This project is a Spring Boot application that allows businesses to effectively manage their product inventory. The system provides basic functions such as adding, updating, deleting, and listing products, as well as offering stock tracking and simple reporting features.
 
 ### Features
-
+ 
 - Product CRUD (Create, Read, Update, Delete) operations
 - Category-based product organization
 - Basic search and filtering functions
